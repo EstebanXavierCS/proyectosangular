@@ -1,0 +1,14 @@
+export default `<!DOCTYPE html><html lang="en" data-beasties-container><head>
+  <meta charset="utf-8">
+  <title>Ejemplos</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+<link rel="stylesheet" href="styles-5INURTSO.css"></head>
+<body>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+  <app-root ng-version="19.1.4" ng-server-context="ssg"><router-outlet></router-outlet><app-home><div class="container mt-5"><h1 class="text-center mb-4 text-primary">Evaluación 1er Parcial</h1><h3 class="text-center mb-5 text-secondary">Esteban Xavier Calderón Sigala</h3><div class="row justify-content-center"><div class="col-md-4"><div class="card shadow-lg border-light"><div class="card-header text-center bg-primary text-white"><h5 class="mb-0">Menú de Opciones</h5></div><ul class="list-group list-group-flush"><li class="list-group-item list-group-item-action text-center"><a href="/fundamentos" class="text-decoration-none text-dark">Fundamentos</a></li><li class="list-group-item list-group-item-action text-center"><a href="/ejemplo2" class="text-decoration-none text-dark">Ejemplo 2</a></li><li class="list-group-item list-group-item-action text-center"><a href="/ejemplo3" class="text-decoration-none text-dark">Ejemplo 3</a></li><li class="list-group-item list-group-item-action text-center"><a href="/ejemplo4" class="text-decoration-none text-dark">Ejemplo 4</a></li><li class="list-group-item list-group-item-action text-center"><a href="/ejemplo5" class="text-decoration-none text-dark">Ejemplo 5</a></li><li class="list-group-item list-group-item-action text-center"><a href="/ejercicio" class="text-decoration-none text-dark">Ejercicio</a></li></ul></div></div></div></div><link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"></app-home><!----></app-root>
+<script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-4B76YJZX.js" type="module"></script>
+
+</body></html>`;
